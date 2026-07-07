@@ -68,7 +68,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
 
-![Foto 1](screenshots/Foto-1.jpeg)
-![Foto 2](screenshots/Foto-2.jpeg)
-![Foto 3](screenshots/Foto-3.jpeg)
-![Foto 4](screenshots/Foto-4.jpeg)
+![Foto 1](Screenshot/Foto%201.jpeg)
+![Foto 2](Screenshot/Foto%202.jpeg)
+![Foto 3](Screenshot/Foto%203.jpeg)
+![Foto 4](Screenshot/Foto%204.jpeg)
