@@ -1,0 +1,61 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-image: url('/assets/bg-login.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: #f8f8f8;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: #096B68;
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: #075754;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+th {
+    background-color: #096B68;
+    color: white;
+    padding: 12px;
+    text-align: left;
+}
+
+td {
+    padding: 12px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+td a {
+    background-color:  #096B68;
+    color: white;
+    padding: 6px 10px;
+    margin-right: 5px;
+    font-size: 13px;
+    border-radius: 4px;
+}
+
+td a:last-child {
+    background-color: #ef4444;
+}
+
